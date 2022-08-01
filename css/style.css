@@ -1,0 +1,44 @@
+
+
+.tabela{
+    display: table;
+
+}
+#id{
+    border: solid 1px black;
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    display: table-cell;
+    padding-inline: 10px;
+    text-align: right;
+}
+
+#linha2{
+    border: solid 1px black;
+    width: 100px;
+    height: 50px;
+    background-color: #FFFFFF;
+    display: table-cell;
+    padding-inline: 10px;
+    text-align: right;
+}
+#linha3{
+    border: solid 1px black;
+    width: 100px;
+    height: 50px;
+    background-color: #E0E0E0;
+    display: table-cell;
+    padding-inline: 10px;
+    text-align: right;
+}
+#linha4{
+    border: solid 1px black;
+    width: 100px;
+    height: 50px;
+    background-color: #FFFFFF;
+    display: table-cell;
+    padding-inline: 10px;
+    text-align: right;
+}
